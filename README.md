@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @V180465 {Michael Proctor}
-- 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning Full Stack Development
+- 👀 I’m interested in Computer Programming.  I attended LIU in Brooklyn, New York and  I studied Assembly language, COBOL, Pascal,  BASIC, C+ and FORTRAN. I have a Master of Science in Human Resources and an MBA in Managment Information Systems.   
+- 🌱 I’m currently learning Full Stack Development.  I am proficient in Git and GitHub.  
 - 💞️ I’m looking to collaborate on programs such as Python and Java and JavaScript
 - 📫 How to reach me 862-333-6277 or 201-414-4206  
 - 😄 I am currently enrolled at KnowledgeHut studying Full Stack Development  
